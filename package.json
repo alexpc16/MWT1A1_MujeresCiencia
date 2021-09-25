@@ -1,0 +1,20 @@
+{
+  "name": "mwt1a1_mujeresciencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpc16/MWT1A1_MujeresCiencia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpc16/MWT1A1_MujeresCiencia/issues"
+  },
+  "homepage": "https://github.com/alexpc16/MWT1A1_MujeresCiencia#readme"
+}

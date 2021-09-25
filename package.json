@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alexpc16/MWT1A1_MujeresCiencia/issues"
   },
-  "homepage": "https://github.com/alexpc16/MWT1A1_MujeresCiencia#readme"
+  "homepage": "https://github.com/alexpc16/MWT1A1_MujeresCiencia#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
